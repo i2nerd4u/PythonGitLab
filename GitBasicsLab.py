@@ -8,3 +8,6 @@ print("This line was added locally.")
 
 def feature_a():
     return "This is feature A"
+
+def feature_b():
+    return "This is feature B"
